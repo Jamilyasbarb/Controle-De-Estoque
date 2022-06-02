@@ -3,13 +3,15 @@
 Aplicação para controlar o estoque de uma loja, onde pode ser adicionado um novo produto (com quantidade, valor e id) e atualizá-lo toda vez que ocorrer um movimento, registrando data e quantidade a ser adicionada ou retirada do estoque.
 
 
- ⚙ Controles Swing Utilizados:
+ ## ⚙ Controles Swing Utilizados:
  
  - JFrame
  - JTable
  - JButton
  - JLabel
  - JTextField
+
+## Interfaces💻
 
 Tela dos Produtos
 
